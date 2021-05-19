@@ -21,8 +21,8 @@ library('ggplot2')
 
 ```{r getting dataset, include=FALSE}
 
-clientID = "7c52ec6c1a1476a9f4a0f4e3943bb65"
-secret = "587a4d877f2b4156bbd99ad3f0c794df"
+clientID = "27c52ec6c1a1476a9f4a0f4e3943bb65"
+secret = "39a186b653dc4a7a90d757ad5ddb6cfb"
 
 response = POST(
   'https://accounts.spotify.com/api/token',
